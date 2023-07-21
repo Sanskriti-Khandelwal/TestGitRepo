@@ -10,7 +10,7 @@ namespace TestGitRepo.Controllers
     {
         new Student { Id = 1, FirstName = "John", LastName = "Sinha" },
         new Student { Id = 2, FirstName = "Jane", LastName = "Smith" },
-        new Student { Id = 3, FirstName = "Mike ", LastName = "Johnson" }
+        new Student { Id = 3, FirstName = "Mike ", LastName = "John" }
        
     };
 
