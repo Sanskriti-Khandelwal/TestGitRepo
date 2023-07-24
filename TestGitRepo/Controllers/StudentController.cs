@@ -8,7 +8,7 @@ namespace TestGitRepo.Controllers
        
         private static List<Student> students = new List<Student>
     {
-        new Student { Id = 1, FirstName = "John", LastName = "Doe" },
+        new Student { Id = 1, FirstName = "John", LastName = "Sin" },
         new Student { Id = 2, FirstName = "Jane", LastName = "Smith" },
         new Student { Id = 3, FirstName = "Mike ", LastName = "Johnson" }
        
